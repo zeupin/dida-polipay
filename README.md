@@ -1,2 +1,3 @@
 # dida-polipay
-对接polipay支付的API接口
+
+对接polipay支付的API接口。
